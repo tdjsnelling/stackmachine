@@ -1,5 +1,4 @@
-## Stack Machine in C
-=====================
+# Stack Machine in C
 
 This is my first project in C. It is a simple stack machine that can read and interpret commands from a file.
 Currently, these commands are supported:
@@ -15,8 +14,7 @@ To be implemented:
 + jmp(address) - jump to line number in source file
 + ifeq(value, address) - if top of stack is equal to value, jump to line number in source file
 
-# Usage
--------
+### Usage
 
 Compile with: gcc stack.c -o stack
-To run: ./stack <source file>
+To run: ./stack test.stm
