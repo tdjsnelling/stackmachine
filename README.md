@@ -16,5 +16,6 @@ To be implemented:
 
 ### Usage
 
---* Compile with: gcc stack.c -o stack
---* To run: ./stack test.stm
+Compile with: gcc stack.c -o stack
+
+To run: ./stack test.stm
