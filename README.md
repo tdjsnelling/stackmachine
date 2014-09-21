@@ -18,4 +18,4 @@ To be implemented:
 
 Compile with: gcc stack.c -o stack
 
-To run: ./stack test.stm
+To run: ./stack 48.sm
