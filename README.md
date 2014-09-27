@@ -9,9 +9,8 @@ Currently, these commands are supported:
 + add() - pop top two items on stack, push sum
 + mult() - pop top two items on stack, push product
 + dup() - duplicate top of stack and push it again
-
-+ # this is a valid comment
-+ #this is not - the space is necessary
++ `# this is a valid comment`
++ `#this is not` - the space is necessary
 
 To be implemented:
 + jmp(address) - jump to line number in source file
