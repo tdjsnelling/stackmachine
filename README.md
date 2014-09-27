@@ -10,6 +10,9 @@ Currently, these commands are supported:
 + mult() - pop top two items on stack, push product
 + dup() - duplicate top of stack and push it again
 
++ # this is a valid comment
++ #this is not - the space is necessary
+
 To be implemented:
 + jmp(address) - jump to line number in source file
 + ifeq(value, address) - if top of stack is equal to value, jump to line number in source file
